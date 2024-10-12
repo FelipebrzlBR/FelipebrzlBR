@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, meu nome é Felipe Oliveira e esta é uma breve apresentação do que estou fazendo no momento e o que eu já fiz, fica a vontade para dar uma olhadinha.<br>
+  Trabalho como auxiliar de TI na All Nutri Alimentos.
 </p>
 
 <p align="left">
