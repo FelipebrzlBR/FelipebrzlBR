@@ -20,5 +20,5 @@
 <p align="left">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipebrasilo10@gmail.com" alt="Gmail"/></a>
-  <img src="https://img.shields.io/badge/-Felipe__Brazil-2e2e2e?style=flat-square&labelColor=2e2e2e&logo=x&logoColor=white&link=https://x.com/Felipe__Brazil" alt="X Twitter"/></a>
+  <img src="https://img.shields.io/badge/-Felipe__Brazil-1a1a1a?style=flat-square&labelColor=1a1a1a&logo=x&logoColor=white&link=https://x.com/Felipe__Brazil" alt="X Twitter"/></a>
 </p>
