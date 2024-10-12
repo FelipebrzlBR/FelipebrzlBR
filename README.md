@@ -18,7 +18,8 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=felipebrasilo10@gmail.com" alt="Gmail"/></a>
+  <a href="https://gmail.com/felipebrasilo10@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" alt="Gmail"/></a>
+  <a href="https://x.com/Felipe__Brazil" title="X">
   <img src="https://img.shields.io/badge/-Felipe__Brazil-1a1a1a?style=flat-square&labelColor=1a1a1a&logo=x&logoColor=white&link=https://x.com/Felipe__Brazil" alt="X Twitter"/></a>
 </p>
