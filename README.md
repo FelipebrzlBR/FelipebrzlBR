@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, meu nome é Felipe Oliveira e esta é uma breve apresentação do que estou fazendo no momento e o que eu já fiz, fica a vontade para dar uma olhadinha.<br>
+  Olá, meu nome é Felipe Oliveira, sou focado em <strong>Front-end</strong>.<br></br> Aqui esta é uma breve apresentação do que estou fazendo no momento e o que eu já fiz, fica a vontade para dar uma olhadinha.<br>
 </p>
 
 <p align="left">
