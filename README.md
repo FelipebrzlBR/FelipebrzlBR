@@ -7,7 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🦄 Linguagens:
+  <p>
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60" height="60" />     
+         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" />  
+  <p/>
 </p>
 
 <p align="left">
