@@ -13,7 +13,7 @@
 <p align="left">
   💼 Ferramentas:
   <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="100" height="100" />       
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="60" height="60" />       
   <p/>
 </p>
 
